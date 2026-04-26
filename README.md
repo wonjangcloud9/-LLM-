@@ -12,5 +12,5 @@ pip install tiktoken torch numpy
 
 ## 챕터 목차
 
-- [CHAPTER 2 — 텍스트 데이터 다루기](./CHAPTER%202/README.md)
+- [CHAPTER 2 — 텍스트 데이터 다루기](./CHAPTER_2/README.md)
   소설 1편을 받아 토큰화 → 어휘 사전 → BPE → 슬라이딩 윈도우로 학습용 (input, target) 텐서를 만들기까지.
